@@ -27,7 +27,7 @@
                     <!-- spacing between Latest Articles and 3-content -->
 
                     <div class="col-md-4">
-                        <img class="img-fluid" alt="portait" src="http://206.189.45.97/~mesh1/wp-content/themes/starter_for_josh_site/images/port1.jpg">
+                        <img class="img-fluid" alt="portait" src="ftp://sub4mesh22%2540sub4.meshatmurdoch-22.com@206.189.45.97/wp-content/themes/starter_for_josh_site/images/image%202.jpg">
 
                         <h4 class="article title">A PORTRAIT</h4>
                         <p class="date">12 december 2020</p>
@@ -43,7 +43,7 @@
                     </div> <!-- col-md-4 -->
 
                     <div class="col-md-4">
-                        <img class="img-fluid" alt="portait" src="http://206.189.45.97/~mesh1/wp-content/themes/starter_for_josh_site/images/port2.jpg">
+                        <img class="img-fluid" alt="portait" src="ftp://sub4mesh22%2540sub4.meshatmurdoch-22.com@206.189.45.97/wp-content/themes/starter_for_josh_site/images/image%203.jpg">
                         <h4 class="article title">MODEL</h4>
                         <p class="date">12 december 2020</p>
                         <p class="article-p">STS has never been shy of seeking new terrains of investigation. More and
@@ -58,7 +58,7 @@
                     </div> <!-- col-md-4 -->
 
                     <div class="col-md-4">
-                        <img class="img-fluid" alt="portait" src="http://206.189.45.97/~mesh1/wp-content/themes/starter_for_josh_site/images/port3.jpg">
+                        <img class="img-fluid" alt="portait" src="ftp://sub4mesh22%2540sub4.meshatmurdoch-22.com@206.189.45.97/wp-content/themes/starter_for_josh_site/images/image%204.jpg"> 
 
                         <h4 class="article title">A GAME DESIGN</h4>
                         <p class="date">12 december 2020</p>

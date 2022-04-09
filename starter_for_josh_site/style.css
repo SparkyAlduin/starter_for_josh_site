@@ -19,6 +19,24 @@ Version: 1
     instead add padding on the children as a percentage */
 }
 
+.smallpage-bg {
+    width: 100%;
+    background: url("images/page_header_bg.jpg") no-repeat center center;
+    background-size: cover;
+    /*make the background image cover the whole div proportionally*/
+    height: 40vh;
+    /*Viewport Height (vh) — This unit is based on the height of the viewport. A value of 1vh is equal to 1% of the viewport height. */
+
+}
+
+.smallpage-title{ 
+    font-size: 4em;
+    color: white;
+    font-weight: 800;
+    margin-top: 9%;
+    padding-bottom: 5%;
+}
+
 .navbar {
     font-size: 0.875em;
     /*since we have set the body font-size to 16px this can also be written as 1em, 
@@ -64,29 +82,34 @@ Version: 1
     the childer within the div should control the height of divs */
 }
 
-.tag h1{
+.tag h1 {
     font-family: 'Raleway', sans-serif;
-    width: 341px; /* give the H1 a width so that we can wrap the text as per the design comp */
-    font-size: 7.125em; /* 144px font size in Figma divided by 16px = 7.125 */
-    letter-spacing: -10px; /* fix the letter-spacing */
-    font-weight: 800; /* make the text bold */
-    line-height: 75%; /* decrease the line height */
+    width: 341px;
+    /* give the H1 a width so that we can wrap the text as per the design comp */
+    font-size: 7.125em;
+    /* 144px font size in Figma divided by 16px = 7.125 */
+    letter-spacing: -10px;
+    /* fix the letter-spacing */
+    font-weight: 800;
+    /* make the text bold */
+    line-height: 75%;
+    /* decrease the line height */
 }
 
-.aboutbg{
+.aboutbg {
     background-color: #d9dade;
     padding: 2%;
 }
 
-.aboutbg h2{
+.aboutbg h2 {
     font-size: 2.4em;
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
 }
 
-.particle{
+.particle {
     text-align: right;
-    margin: 150px;
+    margin: 15px;
     font-size: 1.8em;
     font-style: italic;
     font-weight: 400;
@@ -94,7 +117,7 @@ Version: 1
     padding-bottom: 40px;
 }
 
-.about-text{
+.about-text {
 
     margin-left: 40px;
     margin-right: 40px;
@@ -102,7 +125,7 @@ Version: 1
     line-height: 2em;
 }
 
-.blocker{
+.blocker {
     width: 133px;
     height: 10px;
     background-color: purple;
@@ -110,11 +133,11 @@ Version: 1
     margin-bottom: 40px;
 }
 
-.articlesbg{
+.articlesbg {
     background-color: #f5f5f5;
 }
 
-.article-title{
+.article-title {
     font-size: 1.8em;
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
@@ -124,7 +147,7 @@ Version: 1
     text-align: left;
 }
 
-.date{
+.date {
     font-size: 0.8em;
     margin-top: -5px;
     font-weight: lighter;
@@ -132,11 +155,11 @@ Version: 1
     text-align: left;
 }
 
-.article-p{
+.article-p {
     text-align: left;
 }
 
-.readmore{
+.readmore {
     display: block;
     color: #a19ba6;
     font-size: 0.9em;
@@ -144,14 +167,14 @@ Version: 1
     text-align: left;
 }
 
-footer{
+footer {
     background-image: url(images/image\ 5.jpg);
     background-size: cover;
     width: 100%;
     background-position: center center;
 }
 
-footer p{
+footer p {
     color: #f5f5f5;
     font-weight: bold;
     padding: 5%;
